@@ -1,2 +1,2 @@
 # learning-from-alura
-Some place I intend to keep the codes and project I develop while study with Alura
+A place where I can keep the codes and project I develop while studying with Alura
